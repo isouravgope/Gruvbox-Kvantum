@@ -6,6 +6,8 @@
 
 # Sample Screenshots 👑
 
-![](https://raw.githubusercontent.com/sourav2k/dotfiles/bspwm/samples/gruvkv2.png)
-![](https://raw.githubusercontent.com/sourav2k/dotfiles/bspwm/samples/gruvkv.png)
-![](https://raw.githubusercontent.com/sourav2k/dotfiles/bspwm/samples/gruvkv3.png)
+![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/gruvkv4.png)
+![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/gruvkv2.png)
+![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/gruvkv3.png)
+![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/gruvkv1.png)
+
