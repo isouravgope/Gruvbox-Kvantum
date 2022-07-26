@@ -29,13 +29,13 @@
   </metadata>
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     inkscape:current-layer="svg1764"
+     inkscape:current-layer="g369"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="409.2036"
-     inkscape:cx="285.35439"
-     inkscape:zoom="7.5818004"
+     inkscape:cy="486.32358"
+     inkscape:cx="145.8178"
+     inkscape:zoom="10.722285"
      showgrid="false"
      id="namedview1766"
      inkscape:window-height="1018"
@@ -3112,12 +3112,12 @@
         <path
            inkscape:connector-curvature="0"
            id="path665"
-           style="fill:#a89984;fill-opacity:1"
+           style="fill:#fabd2f;fill-opacity:1"
            d="m 222.9062,667.5938 -0.5,0.0625 0.3125,2.9688 0.5,-0.0312 -0.3125,-3 z m 4.1875,0 -0.3125,3 0.5,0.0312 0.3125,-2.9688 -0.5,-0.0625 z m -8.8125,0.9375 -0.4688,0.1562 0.9375,2.8438 0.4688,-0.1562 z m 13.4375,0 -0.9375,2.8438 0.4688,0.1562 0.9375,-2.8438 z m -21.5938,4.5938 -0.375,0.3125 2.0312,2.25 0.3438,-0.3438 -2,-2.2188 z m 29.75,0 -2,2.2188 0.3438,0.3438 2.0312,-2.25 -0.375,-0.3125 z m -32.9375,3.4375 -0.2812,0.4062 2.4062,1.7812 0.3125,-0.4062 z m 36.125,0 -2.4375,1.7812 0.3125,0.4062 2.4062,-1.7812 z m -38.5,4.0625 -0.2188,0.4375 2.75,1.25 0.1875,-0.4688 -2.7188,-1.2188 z m 40.875,0 -2.7188,1.2188 0.1875,0.4688 2.75,-1.25 -0.2188,-0.4375 z m -42.4062,4.4375 -0.0937,0.5 2.9375,0.625 0.0937,-0.5 z m 43.9375,0 -2.9375,0.625 0.0937,0.5 2.9375,-0.625 z m -41.0938,8.75 -2.9375,0.625 0.0937,0.5 2.9375,-0.625 z m 38.25,0 -0.0937,0.5 2.9375,0.625 0.0937,-0.5 z m -37.0312,3.875 -2.75,1.25 0.2188,0.4375 2.7188,-1.2188 -0.1875,-0.4688 z m 35.8125,0 -0.1875,0.4688 2.7188,1.2188 0.2188,-0.4375 -2.75,-1.25 z m -33.8438,3.5625 -2.4062,1.7812 0.2812,0.4062 2.4375,-1.7812 z m 31.875,0 -0.3125,0.4062 2.4375,1.7812 0.2812,-0.4062 z m -29.1562,3.0625 -2.0312,2.25 0.375,0.3125 2,-2.2188 -0.3438,-0.3438 z m 26.4375,0 -0.3438,0.3438 2,2.2188 0.375,-0.3125 -2.0312,-2.25 z" />
       </g>
     </g>
     <circle
-       style="fill:#313131;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#222222;fill-opacity:1;fill-rule:evenodd"
        r="5"
        cy="220"
        cx="55"
@@ -3323,13 +3323,13 @@
        id="slidercursor-normal">
       <circle
          id="circle711"
-         style="fill:#1d2021;fill-opacity:1"
+         style="fill:#32302f;fill-opacity:1"
          r="9"
          cy="319"
          cx="69" />
       <circle
          id="circle713"
-         style="fill:#282828;fill-opacity:1"
+         style="fill:#1c1c1c;fill-opacity:1"
          r="8"
          cy="319"
          cx="69" />
@@ -3365,13 +3365,13 @@
        id="slidercursor-disabled">
       <circle
          id="circle724"
-         style="fill:#1d2021;fill-opacity:1"
+         style="fill:#32302f;fill-opacity:1"
          r="9"
          cy="319"
          cx="69" />
       <circle
          id="circle726"
-         style="fill:#282828;fill-opacity:1"
+         style="fill:#1c1c1c;fill-opacity:1"
          r="8"
          cy="319"
          cx="69" />
@@ -6786,4 +6786,11 @@
        x="-2.3841858e-07"
        id="expand-button-normal" />
   </g>
+  <ellipse
+     style="fill:#191919;fill-opacity:1"
+     id="path6083"
+     cx="153.14058"
+     cy="229.813"
+     rx="0.02367739"
+     ry="0.057987407" />
 </svg>
