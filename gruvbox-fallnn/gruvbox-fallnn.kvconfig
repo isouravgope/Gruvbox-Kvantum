@@ -71,25 +71,25 @@ intensity=1.00
 saturation=1.00
 
 [GeneralColors]
-window.color=#3c3836
-base.color=#3c3836
+window.color=#282828
+base.color=#282828
 alt.base.color=#282828
-button.color=#3c4454
+button.color=#fbf1c7
 light.color=#282828
 mid.light.color=#282828
 dark.color=#282828
 mid.color=#282828
-highlight.color=#b8bb26
+highlight.color=#a89984
 inactive.highlight.color=#282828
-text.color=#d8dee9
-window.text.color=#d8dee9
-button.text.color=#d8dee9
-disabled.text.color=#d8dee978
-tooltip.text.color=#d8dee9
-highlight.text.color=#d8dee9
-link.color=#646464
+text.color=#fbf1c7
+window.text.color=#fbf1c7
+button.text.color=#fbf1c7
+disabled.text.color=#d5c4a1
+tooltip.text.color=#fbf1c7
+highlight.text.color=#ebdbb2
+link.color=#fbf1c7
 link.visited.color=#7f8c8d
-progress.indicator.text.color=#d8dee9
+progress.indicator.text.color=#d5c4a1
 
 [Hacks]
 transparent_ktitle_label=true
