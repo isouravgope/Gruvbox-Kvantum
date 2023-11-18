@@ -6,8 +6,8 @@
 
 # Sample Screenshots 👑
 
-![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/g1.png)
-![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/g5.png)
-![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/g3.png)
-![](https://raw.githubusercontent.com/sourav2k/sampleshots/main/g4.png)
+![](https://raw.githubusercontent.com/theglitchh/sampleshots/main/g1.png)
+![](https://raw.githubusercontent.com/theglitchh/sampleshots/main/g5.png)
+![](https://raw.githubusercontent.com/theglitchh/sampleshots/main/g3.png)
+![](https://raw.githubusercontent.com/theglitchh/sampleshots/main/g4.png)
 
